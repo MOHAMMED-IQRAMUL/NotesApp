@@ -1,6 +1,6 @@
 # 📝 NotesApp
 
-Welcome to **NotesApp**! This is a simple yet powerful note-taking app that stores your notes in local storage. You can easily add, update, delete, copy, and manage your notes with undo and redo functionality. 
+Welcome to <a href="https://iq-notes.netlify.app/">**NotesApp**!<a> This is a simple yet powerful note-taking app that stores your notes in local storage. You can easily add, update, delete, copy, and manage your notes with undo and redo functionality. 
 
 ## 🌟 Features
 
@@ -10,6 +10,9 @@ Welcome to **NotesApp**! This is a simple yet powerful note-taking app that stor
 - ✏️ **Add, Edit, Delete, Copy Notes**: Manage your notes effortlessly.
 - 🔄 **Undo/Redo**: Undo and redo note changes during creation.
 - 📋 **Copy Note Content**: Easily copy the content of your notes.
+![image](https://github.com/user-attachments/assets/5ed52c2f-d669-4aa3-afbc-1ea771c12a44)
+![image](https://github.com/user-attachments/assets/327325aa-9dfa-4c8e-b534-675ab9bab59f)
+![image](https://github.com/user-attachments/assets/424a4b90-da79-4bb9-b0e9-a14c1c476c4f)
 
 ## 🚀 Getting Started
 
